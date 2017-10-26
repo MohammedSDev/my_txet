@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTextView</string>
+
+    <!--fonts-->
+    <string name="font_LateefRegOT">fonts/LateefRegOT</string>
+    <string name="font_Rodja_bold_end">fonts/Rodja_Bold_Alt End</string>
+    <string name="font_Rodja_bold">fonts/Rodja_Bold</string>
+    <string name="font_Rodja">fonts/Rodja</string>
+</resources>
